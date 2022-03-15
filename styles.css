@@ -1,3 +1,9 @@
 .btn{
     border-radius: 20px !important;
 }
+/* Left side of home */
+.left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

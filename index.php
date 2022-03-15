@@ -22,10 +22,7 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                 <ul class="nav justify-content-end">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Active</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Home</a>
+                        <a class="nav-link active" href="#">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Project</a>
@@ -40,90 +37,105 @@
             </div>
         </div>
     </nav>
+
+    <!-- Body Start -->
     <div class="container mt-3">
         <div class="row">
-            <div class="col-lg-6">
-                <h1>4Bit Tech</h1>
-                <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </p>
-                <button class="btn btn-success"> Explore </button>
+            <div class="col-lg-6 left">
+                <div>
+                    <h1>4Bit Tech</h1>
+                </div>
+                <div>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                </div>
+                <div>                
+                    <button class="btn btn-success"> Explore </button>
+                </div>
             </div>
             <div class="col-lg-6">
                 <img src="Home.jpg" alt="4Bit Tech" class="img-fluid">
             </div>
         </div>
+
+        <!-- Project -->
         <div class="row">
                 <h1>Projects</h1>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="card" style="width: 18rem;">
-                    <img src="card (1).jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title 
-                            and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+                    <div class="card" style="width: 18rem;">
+                        <img src="card (2).jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title 
+                                and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
                     </div>
                 </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="card" style="width: 18rem;">
-                    <img src="card (2).jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title
-                             and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+                    <div class="card" style="width: 18rem;">
+                        <img src="card (2).jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title
+                                and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
                     </div>
                 </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="card" style="width: 18rem;">
-                    <img src="card (3).jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title 
-                            and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+                    <div class="card" style="width: 18rem;">
+                        <img src="card (2).jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title 
+                                and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
                     </div>
                 </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="card" style="width: 18rem;">
-                    <img src="card (4).jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title 
-                            and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+                    <div class="card" style="width: 18rem;">
+                        <img src="card (2).jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title 
+                                and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
                     </div>
                 </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="card" style="width: 18rem;">
-                    <img src="card (3).jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title
-                             and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+                    <div class="card" style="width: 18rem;">
+                        <img src="card (2).jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title
+                                and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
                     </div>
                 </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="card" style="width: 18rem;">
-                    <img src="card (1).jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card 
-                            title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+                    <div class="card" style="width: 18rem;">
+                        <img src="card (2).jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card 
+                                title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
                     </div>
                 </div>
-                </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                
+            </div>
         </div>
     </div>
         
